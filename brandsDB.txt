@@ -1,0 +1,1 @@
+Lenovo,MSI,Apple,HP,DELL,Acer,Asus
